@@ -58,6 +58,7 @@ public class Question1 {
 
 		sf.assertEquals(homePage, "STORE");
 		System.out.println("Title of homepage is verified");
+		sf.assertAll();
 
 	}
 
